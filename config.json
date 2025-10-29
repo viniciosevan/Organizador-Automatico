@@ -1,0 +1,69 @@
+{
+  "pastas_para_monitorar": [
+    "C:/Users/user/Downloads",
+    "C:/Users/user/Desktop/Nova pasta"
+  ],
+  "categorias": {
+    "Imagens": [
+      ".jpg",
+      ".jpeg",
+      ".png",
+      ".gif",
+      ".bmp",
+      ".tiff",
+      ".webp"
+    ],
+    "Vídeos": [
+      ".mp4",
+      ".mkv",
+      ".avi",
+      ".mov",
+      ".wmv",
+      ".flv"
+    ],
+    "Áudios": [
+      ".mp3",
+      ".wav",
+      ".flac",
+      ".aac",
+      ".ogg",
+      ".m4a"
+    ],
+    "Documentos": [
+      ".pdf",
+      ".docx",
+      ".doc",
+      ".txt",
+      ".pptx",
+      ".xlsx"
+    ],
+    "Compactados": [
+      ".zip",
+      ".rar",
+      ".7z",
+      ".tar",
+      ".gz"
+    ],
+    "Executáveis": [
+      ".exe",
+      ".msi",
+      ".bat"
+    ],
+    "Torrents": [
+      ".torrent"
+    ],
+    "Scripts": [
+      ".py",
+      ".js",
+      ".sh",
+      ".ps1",
+      ".java",
+      ".cpp"
+    ],
+    "Outros": []
+  },
+  "pastas_monitoradas": [
+    "C:\\Users\\user/Downloads",
+    "C:/Users/user/Downloads"
+  ]
+}
